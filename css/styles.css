@@ -1,0 +1,12 @@
+﻿body{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container{
+    background-color: aqua;
+    text-align: center;
+    width: 50%;
+}
